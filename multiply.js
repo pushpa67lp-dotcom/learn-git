@@ -3,4 +3,4 @@ let b = 23
 
 let m = a*b
 
-console.log('this is a x b :' m);
+console.log('this is a x b :', m);
